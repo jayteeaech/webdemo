@@ -1,7 +1,7 @@
 # Additional Information
 
 I like photography.  Here is a photo I've taken:
-!(/img/PurpleFlowerDew.jpg)
+![purple flower](/img/PurpleFlowerDew.jpg)
 
 Things I like:
 - beans
