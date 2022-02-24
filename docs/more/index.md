@@ -1,5 +1,8 @@
 # Additional Information
 
+I like photography.  Here is a photo I've taken:
+!(/img/PurpleFlowerDew.jpg)
+
 Things I like:
 - beans
 - bacon
